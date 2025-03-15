@@ -42,3 +42,4 @@ python [main.py] monthly_expense <month>
 ```sh
 python [main.py] bulk_delete
 ```
+https://roadmap.sh/projects/expense-tracker
