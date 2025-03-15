@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Expense Tracker is a command-line interface (CLI) application that helps you manage your expenses. You can add, update, delete, view, and summarize your expenses. Additionally, you can search for expenses by keyword and export your expenses to a CSV file.
+Expense Tracker is a command-line interface (CLI) application that helps you manage your expenses. You can add, update, delete, view, and summarize your expenses.
 
 ## Features
 
