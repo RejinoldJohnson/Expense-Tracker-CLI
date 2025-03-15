@@ -40,5 +40,5 @@ python [main.py] monthly_expense <month>
 ```
 - Delete all expenses (bulk delete)
 ```sh
-python [main.py](http://_vscodecontentref_/11) bulk_delete
+python [main.py] bulk_delete
 ```
