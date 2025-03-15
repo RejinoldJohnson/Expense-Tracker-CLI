@@ -11,8 +11,6 @@ Expense Tracker is a command-line interface (CLI) application that helps you man
 - View a summary of total expenses
 - View expenses for a specific month
 - Delete all expenses (bulk delete)
-- Search expenses by keyword
-- Export expenses to a CSV file
 
 ## Usage
 
